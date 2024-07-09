@@ -1,0 +1,13 @@
+p{color: blue;}
+
+a{
+    color: brown; 
+    text-decoration:none }
+
+table, th, td {
+    border: 3px solid black;
+  }
+
+th{
+    color: tomato;
+  }
